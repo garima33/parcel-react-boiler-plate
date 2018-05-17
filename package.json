@@ -1,0 +1,28 @@
+{
+  "name": "parcel-react-boiler-plate",
+  "version": "1.0.0",
+  "description": "This repository contains simple project containing react parcel boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garima33/parcel-react-boiler-plate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garima33/parcel-react-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/garima33/parcel-react-boiler-plate#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "node-sass": "^4.9.0"
+  }
+}
